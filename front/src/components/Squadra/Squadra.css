@@ -1,0 +1,41 @@
+.text-center h6 {
+  color: #003a7e;
+}
+.text-center h2 {
+  position: relative;
+}
+
+.text-center h2.squadra::after {
+  content: "";
+  position: absolute;
+  height: 3px;
+  width: 50px;
+  background-color: #003a7e;
+  top: 65px;
+  left: 549px;
+}
+
+div .team {
+  height: 200px;
+  position: relative;
+}
+span.facbook {
+  position: absolute;
+  top: -150px;
+  right: 230px;
+}
+span.twitter {
+  position: absolute;
+  top: -110px;
+  right: 230px;
+}
+span.linkedin {
+  position: absolute;
+  top: -63px;
+  right: 230px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

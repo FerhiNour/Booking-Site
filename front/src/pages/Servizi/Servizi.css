@@ -1,0 +1,32 @@
+.servizi {
+    background-image: url('../../assets/images/barca_ondablu.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 0px !important;
+    padding-top: 120px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.servizi .btn{
+    background-color:  #003a7e;
+    color: white !important;
+    padding: 10px 45px !important;
+}
+
+.serviziSection{
+    position: relative;
+    margin-top: 60px;
+}
+.serviziSection::after{
+    content: "";
+    width: 90px;
+    height: 2px;
+    background-color: #003a7e;
+    position: absolute;
+    top: 80px;
+    bottom: 0;
+    left: 596px;
+}

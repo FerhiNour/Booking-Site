@@ -1,0 +1,12 @@
+.chi a.btn {
+    color:  white !important;
+    background-color: #003a7e;
+}
+.chi {
+    background-image:url('../../assets/images/barca_ondablu.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 0px !important;
+    padding-top: 200px;
+}

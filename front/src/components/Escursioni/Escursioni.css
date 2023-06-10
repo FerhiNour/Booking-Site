@@ -1,0 +1,27 @@
+div {
+  position: relative;
+}
+.escursioni::after {
+  content: "";
+  background-color: #003a7e;
+  height: 3px;
+  width: 50px;
+  position: absolute;
+  right: 48%;
+  top: 130%;
+}
+
+h4,
+span {
+  padding-left: 10px;
+}
+
+.card {
+  box-shadow: 6px 6px 10px #eee;
+  padding-bottom: 10px;
+}
+
+a {
+  text-decoration: none !important;
+  color: rgb(0, 58, 126) !important;
+}

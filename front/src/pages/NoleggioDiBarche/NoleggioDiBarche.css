@@ -1,0 +1,10 @@
+.NoleggioDiBarche {
+    background-image: url('../../assets/images/NoleggioDiBarche.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 0px !important;
+    padding-top: 250px;
+    color: white;
+    font-weight: bold;
+}

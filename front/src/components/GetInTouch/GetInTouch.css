@@ -1,0 +1,14 @@
+.touch{
+    background-color: #33adff;
+    height: 200px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.touch .btn{
+    background-color:  #003a7e;
+    color: white !important;
+}

@@ -1,0 +1,16 @@
+nav {
+  background-color: #003a7e;
+  position: sticky !important;
+}
+.nav-item {
+  font-weight: bold;
+}
+
+ul a {
+  margin-left: 20px;
+  color: white !important;
+  text-decoration: none !important;
+}
+.active {
+  color: aqua !important;
+}

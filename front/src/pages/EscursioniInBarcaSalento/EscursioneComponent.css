@@ -1,0 +1,32 @@
+.escursioneComponentbg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  margin-top: 0px !important;
+  padding-top: 120px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.escursioneComponentCard {
+  margin-bottom: 50px;
+}
+
+.escursioneComponentCard .card-title {
+  color: #003a7e;
+  margin-left: -10px;
+  margin-bottom: 20px;
+}
+
+.escursioneComponentCard .card-hours {
+  margin-bottom: 20px;
+}
+
+.escursioneComponentForm {
+  margin-left: 60px;
+}
+
+.escursioneComponentForm .form-group {
+  margin-bottom: 15px !important;
+}

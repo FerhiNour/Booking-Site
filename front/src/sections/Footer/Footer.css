@@ -1,0 +1,14 @@
+.footer .col {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: 30px;
+}
+
+.footer {
+  background-color: #eee;
+}
+
+.footer .row {
+  padding: 20px;
+}

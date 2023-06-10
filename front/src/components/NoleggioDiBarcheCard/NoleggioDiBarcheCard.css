@@ -1,0 +1,12 @@
+.NoleggioDiBarcheCard span {
+  font-size: 15px !important;
+  font-weight: 500 !important;
+}
+
+.NoleggioDiBarcheCard .card-title {
+  color: #003a7e;
+}
+
+.header {
+  position: relative;
+}
